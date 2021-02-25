@@ -8,7 +8,7 @@
 5. E – Many teams : **10,921,832 points**
 
 ## Logic used
-1. Choose the largest ingredients pizza
+1. Choose the largest ingredients pizza.
 2. I used a certain **factor = union - intersection** , which is a factor to determine
 the extent upto which we have more union and lesser intersection.
 And choose corresponding pizzas which gives maximum factor.
