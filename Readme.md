@@ -1,11 +1,11 @@
 # Scores
 ## Total score : 728,533,819 points
 
-A – Example : **50 points**
-B – A little bit of everything : **11,811 points**
-C – Many ingredients : **709,604,989 points**
-D – Many pizzas : **7,995,137 points**
-E – Many teams : **10,921,832 points**
+1. A – Example : **50 points**
+2. B – A little bit of everything : **11,811 points**
+3. C – Many ingredients : **709,604,989 points**
+4. D – Many pizzas : **7,995,137 points**
+5. E – Many teams : **10,921,832 points**
 
 ## Logic used
 1. Choose tthe largest ingredients pizza
